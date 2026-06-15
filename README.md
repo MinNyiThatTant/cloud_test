@@ -11,7 +11,7 @@ Admin can manage students, questions, and export results.
 ![Register](screenshots/register.PNG)
 
 ### student_view
-![student_view](screenshots/student_views.PNG)
+![student_view](screenshots/student_view.PNG)
 
 ## Features
 - Student registration & login
