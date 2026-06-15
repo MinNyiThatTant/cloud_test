@@ -1,6 +1,6 @@
-# OS_test (php, mysql, html, css, javascript - web development)
+# Clout_Computing_test (php, mysql, html, css, javascript - web development)
 
-OS_test system for Operating System subject in Class room.
+Clout_Computing_test system for Cloud System subject in Class room.
 Students can register, login, take tests, and see results.  
 Admin can manage students, questions, and export results.
 
@@ -27,11 +27,6 @@ Admin can manage students, questions, and export results.
 - PHP (Backend)
 - MySQL (Database)
 - XAMPP
-
-## Installation
-1. Clone this repo to `C:/xampp/htdocs/`
-2. Import `database.sql` to phpMyAdmin
-3. Open `http://localhost/os_test/`
 
 
 ## Usage
